@@ -27,3 +27,6 @@ TARGET_TAP_TO_WAKE_NODE := "/proc/tpd_gesture"
 
 # Inherit the proprietary files
 -include vendor/asus/X01BD/BoardConfigVendor.mk
+
+BUILD_BROKEN_DUP_RULES := true
+

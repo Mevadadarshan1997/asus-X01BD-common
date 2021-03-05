@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_X01BD.mk
+    $(LOCAL_DIR)/ssos_X01BD.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_X01BD-userdebug
+    ssos_X01BD-userdebug
