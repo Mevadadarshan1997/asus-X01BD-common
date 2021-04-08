@@ -5,7 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_X01BD.mk
+    $(LOCAL_DIR)/octavi_X01BD.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_X01BD-userdebug
+    octavi_X01BD-userdebug
